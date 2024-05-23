@@ -1,4 +1,4 @@
-<img align="right" src="https://s1.aigei.com/src/img/gif/16/1654e38f8add4c0c95ef9b34ec474ce2.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:GM3cWgIcSOqIj9HsMWZnXGmet6o=">
+<img align="right" src="https://camo.githubusercontent.com/279fd0b9f545a5c25bd563ca2ecf1b2c2ff0681d3a3e4e218e48fa6fdd00e7c7/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a4d696e6f72692d74793f7468656d653d72756c653334">
 
 ## 前端工程师—天平
 
