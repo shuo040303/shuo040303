@@ -1,4 +1,4 @@
-<img align="right" src="[https://count.getloli.com/get/@:Minori-ty?theme=rule34](https://s1.aigei.com/src/img/gif/16/1654e38f8add4c0c95ef9b34ec474ce2.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:GM3cWgIcSOqIj9HsMWZnXGmet6o=">
+<img align="right" src="https://s1.aigei.com/src/img/gif/16/1654e38f8add4c0c95ef9b34ec474ce2.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:GM3cWgIcSOqIj9HsMWZnXGmet6o=">
 
 ## 前端工程师—天平
 
